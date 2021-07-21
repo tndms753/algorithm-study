@@ -11,7 +11,6 @@ function solution1(num) {
 solution(5);
 
 // 답 2
-
 function solution2(num) {
   return num % 2 === 0 ? "Even" : "Odd";
 }
