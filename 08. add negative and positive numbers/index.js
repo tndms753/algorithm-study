@@ -8,6 +8,7 @@ function solution(absolutes, signs) {
       answer = answer - absolutes[i];
     }
   }
+
   return answer;
 }
 
